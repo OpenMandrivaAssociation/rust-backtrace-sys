@@ -5,8 +5,8 @@
 %global crate backtrace-sys
 
 Name:           rust-%{crate}
-Version:        0.1.32
-Release:        2%{?dist}
+Version:        0.1.37
+Release:        1%{?dist}
 Summary:        Bindings to the libbacktrace gcc library
 
 # Upstream license specification: MIT/Apache-2.0
